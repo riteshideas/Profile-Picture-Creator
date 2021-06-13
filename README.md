@@ -12,3 +12,10 @@ This code will create random profile pictures with random colours
 ## Results
 
 Then there will be a question Input on how much random profile photos the computer shpuld generate. After answering it, there will be a photos folder in your previous directory. Inside that folder there would be all the randomly generated photos!
+![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(0).png?raw=true)
+![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(1).png?raw=true)
+![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(2).png?raw=true)
+![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(3).png?raw=true)
+![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(4).png?raw=true)
+![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(5).png?raw=true)
+
