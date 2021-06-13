@@ -7,13 +7,6 @@ This code will create random profile pictures with random colours
 4. Then if you are in the "Part1" Folder then run the `main.py` file
 5. Otherwise if you are in the "Part2" folder run the `frontend.py` file
 
-## Installing the required packages
-Please type this in your terminal so you have the required packages
-
-`pip install opencv-python`
-
-`pip install numpy`
-
 
 
 ## Results
