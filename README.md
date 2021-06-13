@@ -30,10 +30,10 @@ In both files, there would be a question on how much random profile photos the c
 ![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(3).png?raw=true)
 
 
-![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(198).png?raw=true)
+![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(183).png?raw=true)
 
 
-![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(199).png?raw=true)
+![alt text](https://github.com/riteshideas/Profile-Picture-Creator/blob/master/example_photos/MyPhoto(195).png?raw=true)
 
 
 
