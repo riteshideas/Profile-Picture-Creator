@@ -4,7 +4,8 @@ import backend as Image
 import readline
 import os
 
-
+os.system("pip install numpy")
+os.system("pip install opencv-python")
 os.system("clear")
 number = int(input("How many pictures : "))
 for i in range(number):

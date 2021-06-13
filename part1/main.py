@@ -4,7 +4,8 @@ import os
 import readline
 
 
-
+os.system("pip install numpy")
+os.system("pip install opencv-python")
 os.system("clear")
 def createImage(colourChance = 50):
     """
